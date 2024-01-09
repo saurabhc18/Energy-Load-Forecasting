@@ -1,12 +1,13 @@
 # Energy-Load-Forecasting
-This notebook contains the following Topics
+This notebook contains the following:
 
-Project Description, Data Sources and other references
-Importing libraries
-Interpreting Dataset
-Exploratory Data Analysis
-Feature Engineering
-Model Creation and Evaluation (Multiple Linear Regression, Random Forest and XG Boost)
+Project Description, Data Sources and other references:
+1.Importing libraries
+2.Interpreting Dataset
+3.Exploratory Data Analysis
+4.Feature Engineering
+5.Model Creation and Evaluation (Multiple Linear Regression, Random Forest and XG Boost)
+
 The EnergyDemand_dataset.xlsx contains hourly Real-Time (RT) energy demand and weather data for the ISO New England Control Area (ISO NE CA). ISO New England Control area consist of MA, VT, CT, NH , ME , RI states.
 The dataset is sourced from https://www.iso-ne.com/isoexpress/web/reports/load-and-demand/-/tree/zone-info and spans a four-year period (2016-2019) containing 35064 records. The primary objective is to utilize this real dataset to forecast energy consumption and evaluating the machine model performance.
 
